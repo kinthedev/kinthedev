@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1000&pause=4000&color=6EF7F1&background=FFE2E200&center=true&vCenter=true&random=true&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Kin+%F0%9F%A4%97)](https://git.io/typing-svg)
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/1291013382849167542?showDisplayName=true&idleMessage=Just%20a%20normal%20developer)](https://discord.com/users/1055325297051979847)
 ## 🧠 About Me
 
 I'm a passionate full-stack developer with a strong foundation in front-end and back-end technologies. I love building clean, scalable, and efficient applications using modern web tools.
