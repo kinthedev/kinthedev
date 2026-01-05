@@ -26,18 +26,7 @@ I'm a passionate full-stack developer with a strong foundation in front-end and 
 
 ---
 
-## 🔥 GitHub Stats
 
-![kinthedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kinthedev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinthedev&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=kinthedev&theme=radical)
-
----
 
 ## 📫 Contact
 
